@@ -1,199 +1,199 @@
 {
-    "pricesEn": [
+  "pricesEn": [
+    {
+      "category": "EN Eyebrows",
+      "services": [
         {
-            "category": "EN Sprâncene",
-            "services": [
-                {
-                    "title": "Laminare Sprâncene",
-                    "price": "80"
-                },
-                {
-                    "title": "Vopsit, laminare și tratament botox",
-                    "price": "120"
-                }
-            ]
+          "title": "Eyebrow Lamination",
+          "price": "80"
         },
         {
-            "category": "Gene",
-            "services": [
-                {
-                    "title": "Laminare Gene",
-                    "price": "80"
-                },
-                {
-                    "title": "Vopsit, laminare și tratament botox",
-                    "price": "110"
-                }
-            ]
-        },
-        {
-            "category": "Epilare Permanenta",
-            "fullCol": true,
-            "services": [
-                {
-                    "title": "Picioare Lung",
-                    "price": "270"
-                },
-                {
-                    "title": "Picioare Scurt",
-                    "price": "170"
-                },
-                {
-                    "title": "Braţe Lung",
-                    "price": "230"
-                },
-                {
-                    "title": "Braţe Scurt",
-                    "price": "150"
-                },
-                {
-                    "title": "Abdomen",
-                    "price": "80"
-                },
-                {
-                    "title": "Spate",
-                    "price": "80"
-                },
-                {
-                    "title": "Fese",
-                    "price": "60"
-                },
-                {
-                    "title": "Inghinal Total",
-                    "price": "200"
-                },
-                {
-                    "title": "Linie Bikini",
-                    "price": "100"
-                },
-                {
-                    "title": "Axila",
-                    "price": "80"
-                },
-                {
-                    "title": "Mustaţă",
-                    "price": "40"
-                },
-                {
-                    "title": "Faţă Total",
-                    "price": "70"
-                },
-                {
-                    "title": "Hollywood Facial",
-                    "price": "250"
-                },
-                {
-                    "title": "Full Body",
-                    "price": "800"
-                }
-            ]
-        },
-        {
-            "category": "Plasma Pen",
-            "fullCol": true,
-            "services": [
-                {
-                    "title": "Pleoapa superioara",
-                    "price": "450"
-                },
-                {
-                    "title": "Pleoapa inferioara",
-                    "price": "450"
-                },
-                {
-                    "title": "Pleoapa superioara + inferioara",
-                    "price": "700"
-                },
-                {
-                    "title": "Full face",
-                    "price": "1000"
-                },
-                {
-                    "title": "Cicatrici acneice",
-                    "price": "500"
-                },
-                {
-                    "title": "Ridurile fumatorului",
-                    "price": "300"
-                },
-                {
-                    "title": "Obraji",
-                    "price": "500"
-                },
-                {
-                    "title": "Frunte",
-                    "price": "300"
-                },
-                {
-                    "title": "Laba gastii",
-                    "price": "350"
-                },
-                {
-                    "title": "Lifting gat + decolteu",
-                    "price": "700"
-                },
-                {
-                    "title": "Zona abdomen",
-                    "price": "1300"
-                },
-                {
-                    "title": "Zona spate acneic",
-                    "price": "2000"
-                },
-                {
-                    "title": "Xantelasme",
-                    "price": "40-100"
-                },
-                {
-                    "title": "Papiloame",
-                    "price": "40-100"
-                },
-                {
-                    "title": "Veruci",
-                    "price": "50"
-                },
-                {
-                    "title": "Puncte grasime",
-                    "price": "20-50"
-                },
-                {
-                    "title": "Angioame",
-                    "price": "20-50"
-                }
-            ]
-        },
-        {
-            "category": "Îndepărtare tatuaje",
-            "services": [
-                {
-                    "title": "Îndepărtare Permanent Make-up (buze, sprâncene, eyeliner)",
-                    "hint": "Îndepărtarea tatuajelor corporale depinde de mărime. Vă rugăm să ne contactaţi pentru a programa o consultație gratuită.",
-                    "price": "200"
-                }
-            ]
-        },
-        {
-            "category": "Hyaluron Pen",
-            "services": [
-                {
-                    "title": "1ML of Filler + Free Mesotherapy Facial",
-                    "hint": "Diverse riduri pot fi tratate folosind metoda Hyaluron Pen. De exemplu: Liniile fumătorului, șanțurile nazogeniene, ridurile frunții. Contactați-ne pentru o consultație gratuită.",
-                    "price": "680"
-                }
-            ]
-        },
-        {
-            "category": "Laser Vase Capilare",
-            "services": [
-                {
-                    "title": "Rozacee",
-                    "price": "500"
-                }, 
-                {
-                    "title": "Tratare venectazii",
-                    "hint": "Tratarea venectaziilor depinde de mărime. Vă rugăm să ne contactaţi pentru a programa o consultație gratuită."
-                }
-            ]
+          "title": "Coloring, Lamination, and Botox Treatment",
+          "price": "120"
         }
-    ]
+      ]
+    },
+    {
+      "category": "Eyelashes",
+      "services": [
+        {
+          "title": "Lash Lamination",
+          "price": "80"
+        },
+        {
+          "title": "Coloring, Lamination, and Botox Treatment",
+          "price": "110"
+        }
+      ]
+    },
+    {
+      "category": "Permanent Hair Removal",
+      "fullCol": true,
+      "services": [
+        {
+          "title": "Long Legs",
+          "price": "270"
+        },
+        {
+          "title": "Short Legs",
+          "price": "170"
+        },
+        {
+          "title": "Long Arms",
+          "price": "230"
+        },
+        {
+          "title": "Short Arms",
+          "price": "150"
+        },
+        {
+          "title": "Abdomen",
+          "price": "80"
+        },
+        {
+          "title": "Back",
+          "price": "80"
+        },
+        {
+          "title": "Buttocks",
+          "price": "60"
+        },
+        {
+          "title": "Total Bikini",
+          "price": "200"
+        },
+        {
+          "title": "Bikini Line",
+          "price": "100"
+        },
+        {
+          "title": "Armpit",
+          "price": "80"
+        },
+        {
+          "title": "Mustache",
+          "price": "40"
+        },
+        {
+          "title": "Full Face",
+          "price": "70"
+        },
+        {
+          "title": "Hollywood Facial",
+          "price": "250"
+        },
+        {
+          "title": "Full Body",
+          "price": "800"
+        }
+      ]
+    },
+    {
+      "category": "Plasma Pen",
+      "fullCol": true,
+      "services": [
+        {
+          "title": "Upper Eyelid",
+          "price": "450"
+        },
+        {
+          "title": "Lower Eyelid",
+          "price": "450"
+        },
+        {
+          "title": "Upper + Lower Eyelids",
+          "price": "700"
+        },
+        {
+          "title": "Full Face",
+          "price": "1000"
+        },
+        {
+          "title": "Acne Scars",
+          "price": "500"
+        },
+        {
+          "title": "Smoker's Wrinkles",
+          "price": "300"
+        },
+        {
+          "title": "Cheeks",
+          "price": "500"
+        },
+        {
+          "title": "Forehead",
+          "price": "300"
+        },
+        {
+          "title": "Crow's Feet",
+          "price": "350"
+        },
+        {
+          "title": "Neck + Decolletage Lift",
+          "price": "700"
+        },
+        {
+          "title": "Abdomen Area",
+          "price": "1300"
+        },
+        {
+          "title": "Acneic Back Area",
+          "price": "2000"
+        },
+        {
+          "title": "Xanthelasma",
+          "price": "40-100"
+        },
+        {
+          "title": "Warts",
+          "price": "40-100"
+        },
+        {
+          "title": "Papillomas",
+          "price": "50"
+        },
+        {
+          "title": "Fatty Deposits",
+          "price": "20-50"
+        },
+        {
+          "title": "Angiomas",
+          "price": "20-50"
+        }
+      ]
+    },
+    {
+      "category": "Tattoo Removal",
+      "services": [
+        {
+          "title": "Permanent Makeup Removal (Lips, Eyebrows, Eyeliner)",
+          "hint": "The removal of body tattoos depends on size. Please contact us to schedule a free consultation.",
+          "price": "200"
+        }
+      ]
+    },
+    {
+      "category": "Hyaluron Pen",
+      "services": [
+        {
+          "title": "1ML of Filler + Free Mesotherapy Facial",
+          "hint": "Various wrinkles can be treated using the Hyaluron Pen method. For example: Smoker's lines, nasolabial folds, forehead wrinkles. Contact us for a free consultation.",
+          "price": "680"
+        }
+      ]
+    },
+    {
+      "category": "Laser Capillary Vessels",
+      "services": [
+        {
+          "title": "Rosacea",
+          "price": "500"
+        },
+        {
+          "title": "Treatment of Venectasia",
+          "hint": "The treatment of venectasia depends on size. Please contact us to schedule a free consultation."
+        }
+      ]
+    }
+  ]
 }
